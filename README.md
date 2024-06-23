@@ -4,6 +4,19 @@
 
 Supermarket-Mercadona-Scraper is a Python-based web scraper designed to extract and organize product data from the Mercadona supermarket website.
 
+![OS](https://img.shields.io/badge/os-linux%20%7C%20macOS%20%7C%20windows-blue)
+![Regex](https://img.shields.io/badge/regex-007ACC?style=for-the-badge&logo=regex&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-FFB13B?style=for-the-badge&logo=csv&logoColor=white)
+![Time](https://img.shields.io/badge/Time-007ACC?style=for-the-badge&logo=clock&logoColor=white)
+![Random](https://img.shields.io/badge/Random-007ACC?style=for-the-badge&logo=dice&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Keyboard](https://img.shields.io/badge/Keyboard-007ACC?style=for-the-badge&logo=keyboard&logoColor=white)
+![Funciones Aux](https://img.shields.io/badge/Funciones%20Aux-007ACC?style=for-the-badge&logo=code&logoColor=white)
+![Datetime](https://img.shields.io/badge/Datetime-007ACC?style=for-the-badge&logo=calendar&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![SeleniumBase](https://img.shields.io/badge/SeleniumBase-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 ## Features
 
 - Automated browsing through product categories and subcategories.
