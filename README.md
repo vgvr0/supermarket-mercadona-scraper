@@ -4,7 +4,7 @@
 
 Supermarket-Mercadona-Scraper is a Python-based web scraper designed to extract and organize product data from the Mercadona supermarket website.
 
-![OS](https://img.shields.io/badge/os-linux%20%7C%20macOS%20%7C%20windows-blue)
+![OS](https://img.shields.io/badge/os-linux%20%7C%20macOS%20%7C%20windows-blue&logoColor=white)
 ![Regex](https://img.shields.io/badge/regex-007ACC?style=for-the-badge&logo=regex&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-FFB13B?style=for-the-badge&logo=csv&logoColor=white)
 ![Time](https://img.shields.io/badge/Time-007ACC?style=for-the-badge&logo=clock&logoColor=white)
