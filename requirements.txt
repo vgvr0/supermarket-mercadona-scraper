@@ -1,0 +1,4 @@
+seleniumbase>=4.44.0
+beautifulsoup4>=4.14.0
+keyboard>=0.13.0
+# Note: selenium is included as dependency of seleniumbase
